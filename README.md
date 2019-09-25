@@ -8,7 +8,7 @@ $ pkg install python
 
 $ pkg install git 
 
-$ git clone https://github.com/UNDERCODETestingCompany/SMS-SPAMMER-SCRIPT/
+$ git clone https://github.com/UNDERCODETestingC/SMS-SPAMMER-SCRIPT/
 
 $ pip install requests mechanize bs4
 
@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=1kGb2lTpgUg
 
 [Instagram](https://instagram.com/UnderCodeTestingCompany) 
 
-[GitHub](https://github.com/UndercodeTestingCompany)
+[GitHub](https://github.com/UndercodeTestingC)
 
 [YouTube](http://https://youtu.be/wzfsVoRNezQ) 
 
